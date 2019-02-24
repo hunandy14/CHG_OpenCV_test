@@ -5,5 +5,5 @@
 https://charlottehong.blogspot.com/2019/02/opencv-401-visual-studio-2019.html
 
 測試圖
-![](https://github.com/hunandy14/CHG_OpenCV_test/Snipaste_2019-02-25_01-35-12.png)
+![](/CHG_OpenCV_test/Snipaste_2019-02-25_01-35-12.png)
 
